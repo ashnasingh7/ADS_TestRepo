@@ -19,3 +19,6 @@ print(a + b + c)
 
 import numpy as np
 np.zeros((3, 7))
+
+
+#Hello, I'm Sebastian!
