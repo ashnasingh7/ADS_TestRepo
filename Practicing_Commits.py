@@ -22,3 +22,4 @@ np.zeros((3, 7))
 
 
 #Hello, I'm Sebastian!
+print("hey hello hi")
